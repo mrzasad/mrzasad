@@ -14,13 +14,13 @@
 
 ## About Me
 
-Senior engineer with **24+ years** of experience across enterprise software, cloud infrastructure, and AI integration — including work with **PwC** and **KPMG**. I specialize in backend systems that are observable, scalable, and production-ready, from secure LLM guardrails to sub-$10 ETL pipelines processing millions of records.
+Senior engineer with **14+ years** of experience across enterprise software, cloud infrastructure, and AI integration — including work with **PwC** and **KPMG**. I specialize in backend systems that are observable, scalable, and production-ready, from secure LLM guardrails to sub-$10 ETL pipelines processing millions of records.
 
 ```python
 profile = {
-    "name":       "Asad Ullah",
+    "name":       "Asad Tungeker",
     "location":   "Chicago, IL",
-    "experience": "24+ years in enterprise IT",
+    "experience": "14+ years in enterprise IT",
     "focus":      ["LLM / GenAI Integration", "RAG Architectures", "Cloud-Native APIs", "Data Engineering"],
     "stack":      ["Python", "C# / .NET", "TypeScript", "Azure", "FastAPI", "LangChain"],
     "open_to":    "Senior / Staff Engineer roles in AI, Backend, or Data Engineering — USA",
