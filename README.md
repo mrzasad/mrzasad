@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Dynamic header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Asad%20Ullah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Engineer%20%7C%20AI%20%26%20Data%20Specialist&descAlignY=58&descColor=7ecbff" width="100%"/>
-
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7ECBFF&center=true&vCenter=true&width=750&lines=14%2B+years+in+enterprise+software+%F0%9F%8F%97%EF%B8%8F;Building+production-grade+AI+%26+LLM+systems+%F0%9F%A4%96;Cloud-native+APIs%2C+ETL+pipelines%2C+RAG+architectures;PWC+%7C+KPMG+%7C+Big-Five+consulting+background)](https://git.io/typing-svg)
 
@@ -18,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm a **Senior Full-Stack Engineer and AI/Data Integration Specialist** based in Chicago, IL, with **14+ years** of experience delivering high-impact software across enterprise environments — including engagements with **PwC** and **KPMG**.
+I'm a **Senior Full-Stack Engineer and AI/Data Integration Specialist** based in Chicago, IL, with **14+ years** of experience delivering high-impact software across enterprise environments — including  **PwC** and **Accenture**.
 
 My work sits at the intersection of **cloud-native backend engineering**, **generative AI**, and **data pipelines**. I design systems that are resilient, observable, and built to scale — from secure LLM guardrails to sub-$10 ETL pipelines processing millions of records.
 
