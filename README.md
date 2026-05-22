@@ -139,27 +139,15 @@ Record linkage system clustering near-duplicate customer profiles using cosine s
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mrzasad&show_icons=true&theme=transparent&title_color=7ecbff&text_color=ffffff&icon_color=7ecbff&border_color=2c5364&hide_border=false&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzasad&layout=compact&theme=transparent&title_color=7ecbff&text_color=ffffff&border_color=2c5364" height="165"/>
-
-</div>
-
----
-
 ## 💬 Open To Discussing
 
-- 🔒 AI guardrails, LLM safety, and responsible production deployment
-- 🔍 High-throughput ETL pipelines for RAG and embedding workloads
-- 🏗️ Microservices architecture, DDD, and event-driven systems
-- ☁️ Azure Integration Services and cloud-native API design
-- 👥 Mentoring engineering teams on Azure + AI integration
+-  AI guardrails, LLM safety, and responsible production deployment
+-  High-throughput ETL pipelines for RAG and embedding workloads
+-  Microservices architecture, DDD, and event-driven systems
+-  Azure Integration Services and cloud-native API design
+-  Mentoring engineering teams on Azure + AI integration
 
----
+--
 
 <div align="center">
 
