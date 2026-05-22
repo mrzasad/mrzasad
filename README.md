@@ -21,7 +21,7 @@ My work sits at the intersection of **cloud-native backend engineering**, **gene
 
 ```python
 profile = {
-    "name":        "Asad Ullah",
+    "name":        "Asad Tungeker",
     "location":    "Chicago, IL",
     "experience":  "14+ years in enterprise IT",
     "focus":       ["LLM / GenAI Integration", "RAG Architectures", "Cloud-Native APIs", "Data Engineering"],
