@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Asad%20Ullah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Engineer%20%7C%20AI%20%26%20Data%20Specialist&descAlignY=58&descColor=7ecbff" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7ECBFF&center=true&vCenter=true&width=750&lines=24%2B+years+in+enterprise+software+%F0%9F%8F%97%EF%B8%8F;Building+production-grade+AI+%26+LLM+systems+%F0%9F%A4%96;Cloud-native+APIs%2C+ETL+pipelines%2C+RAG+architectures;PWC+%7C+KPMG+%7C+Big-Five+consulting+background)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7ECBFF&center=true&vCenter=true&width=750&lines=14%2B+years+in+enterprise+software+%F0%9F%8F%97%EF%B8%8F;Building+production-grade+AI+%26+LLM+systems+%F0%9F%A4%96;Cloud-native+APIs%2C+ETL+pipelines%2C+RAG+architectures;PWC+%7C+KPMG+%7C+Big-Five+consulting+background)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm a **Senior Full-Stack Engineer and AI/Data Integration Specialist** based in Chicago, IL, with **24+ years** of experience delivering high-impact software across enterprise environments — including engagements with **PwC** and **KPMG**.
+I'm a **Senior Full-Stack Engineer and AI/Data Integration Specialist** based in Chicago, IL, with **14+ years** of experience delivering high-impact software across enterprise environments — including engagements with **PwC** and **KPMG**.
 
 My work sits at the intersection of **cloud-native backend engineering**, **generative AI**, and **data pipelines**. I design systems that are resilient, observable, and built to scale — from secure LLM guardrails to sub-$10 ETL pipelines processing millions of records.
 
@@ -26,60 +26,59 @@ My work sits at the intersection of **cloud-native backend engineering**, **gene
 profile = {
     "name":        "Asad Ullah",
     "location":    "Chicago, IL",
-    "experience":  "24+ years in enterprise IT",
+    "experience":  "14+ years in enterprise IT",
     "focus":       ["LLM / GenAI Integration", "RAG Architectures", "Cloud-Native APIs", "Data Engineering"],
     "stack":       ["Python", "C# / .NET", "TypeScript", "Azure", "FastAPI", "LangChain"],
-    "open_to":     "Senior / Staff Engineer | AI Integration | Backend roles in the USA",
 }
 ```
 
 ---
 
-## 🏗️ Featured Projects
+##  Featured Projects
 
-### 🛡️ [prompt-shield-AI](https://github.com/mrzasad/prompt-shield-AI)
+###  [prompt-shield-AI](https://github.com/mrzasad/prompt-shield-AI)
 > *Python · LLM Guardrails · Dual-Layer Security*
 
 Open-source dual-layer guardrail system that protects LLM applications against **prompt injection, jailbreaks, and PII leakage** — enforcing safety policies before inference reaches the model.
 
 ---
 
-### 🤖 [auto-refund-ai](https://github.com/mrzasad/auto-refund-ai)
+###  [auto-refund-ai](https://github.com/mrzasad/auto-refund-ai)
 > *Python · Streamlit · RAG · NLP*
 
 Intelligent complaint-processing app that uses NLP to **classify sentiment, extract intent**, and trigger automated refund-eligibility decisions via workflow orchestration.
 
 ---
 
-### 🛒 [langGraph-superstore-AI-assistant](https://github.com/mrzasad/langGraph-superstore-AI-assistant)
+###  [langGraph-superstore-AI-assistant](https://github.com/mrzasad/langGraph-superstore-AI-assistant)
 > *LangGraph · Python · Conversational AI*
 
 Stateful multi-turn shopping assistant built with LangGraph — managing inventory lookups, order modifications, and returns through a **deterministic agent workflow**.
 
 ---
 
-### 📄 [async-document-processor](https://github.com/mrzasad/async-document-processor)
+###  [async-document-processor](https://github.com/mrzasad/async-document-processor)
 > *C# · .NET · Azure Functions · OCR*
 
 High-performance async pipeline orchestrating **OCR (Doctr) + OpenAI structuring** to convert 10,000+ legacy scanned contracts into structured Word/Excel — achieving **95% accuracy**.
 
 ---
 
-### 📈 [adSpend-predictor](https://github.com/mrzasad/adSpend-predictor-polynomial-regression)
+###  [adSpend-predictor](https://github.com/mrzasad/adSpend-predictor-polynomial-regression)
 > *Python · Streamlit · scikit-learn*
 
 Interactive sales predictor using polynomial regression with **feature transformation and overfitting diagnostics** — built for non-technical stakeholders via a clean Streamlit UI.
 
 ---
 
-### 🧠 job-title-canonicalization
+###  job-title-canonicalization
 > *BERT · PyTorch · Contrastive Learning*
 
 Fine-tuned a BERT encoder with **triplet loss** to map 10,000+ raw job titles to canonical seniority levels. Used LLM-assisted synthetic data generation for hard negatives.
 
 ---
 
-### 🔗 entity-resolution-dedupe-pipeline
+###  entity-resolution-dedupe-pipeline
 > *Sentence-Transformers · Active Learning*
 
 Record linkage system clustering near-duplicate customer profiles using cosine similarity — achieving **92% precision** with an active learning loop for hard negatives.
@@ -98,7 +97,7 @@ Record linkage system clustering near-duplicate customer profiles using cosine s
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -166,8 +165,6 @@ Record linkage system clustering near-duplicate customer profiles using cosine s
 ---
 
 <div align="center">
-
-**Open to Senior / Staff Engineer roles in AI, Backend, or Data Engineering across the USA.**
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrzasad)
 [![Email](https://img.shields.io/badge/Reach%20Out-mrzasad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrzasad@gmail.com)
