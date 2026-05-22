@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7ECBFF&center=true&vCenter=true&width=750&lines=24%2B+years+in+enterprise+software;Building+production-grade+AI+%26+LLM+systems;Cloud-native+APIs+%7C+ETL+pipelines+%7C+RAG+architectures;PwC+%7C+KPMG+%7C+Big-Five+consulting+background)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7ECBFF&center=true&vCenter=true&width=750&lines=14%2B+years+in+enterprise+software;Building+production-grade+AI+%26+LLM+systems;Cloud-native+APIs+%7C+ETL+pipelines+%7C+RAG+architectures;PwC+%7C+KPMG+%7C+Big-Five+consulting+background)](https://git.io/typing-svg)
 
 <br/>
 
