@@ -1,7 +1,7 @@
 
 # Hi, I'm Asad Ullah
 
-**Chicago, IL | 📧 mrzasad@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/mrzasad)**
+**Chicago, IL |  mrzasad@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/mrzasad)**
 
 
 ###  Full Stack Engineer | AI & Data Engineering Specialist
