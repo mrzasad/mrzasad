@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7ECBFF¢er=true&vCenter=true&width=750&lines=24%2B+years+in+enterprise+software;Building+production-grade+AI+%26+LLM+systems;Cloud-native+APIs+%7C+ETL+pipelines+%7C+RAG+architectures;3%C3%97+Ironman+%7C+10%C3%97+Ironman+70.3;PwC+%7C+KPMG+%7C+Big-Five+consulting+background)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7ECBFF¢er=true&vCenter=true&width=750&lines=14%2B+years+in+enterprise+software;Building+production-grade+AI+%26+LLM+systems;Cloud-native+APIs+%7C+ETL+pipelines+%7C+RAG+architectures;3%C3%97+Ironman+%7C+10%C3%97+Ironman+70.3;PwC+%7C+KPMG+%7C+Big-Five+consulting+background)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,13 +14,13 @@
 
 ## About Me
 
-Senior engineer with **24+ years** of experience across enterprise software, cloud infrastructure, and AI integration — including work with **PwC** and **KPMG**. I specialize in backend systems that are observable, scalable, and production-ready, from secure LLM guardrails to sub-$10 ETL pipelines processing millions of records. Outside of engineering, I'm a 3× Ironman and 10× Ironman 70.3 finisher — I bring the same discipline to systems design as I do to a 140.6-mile race.
+Senior engineer with **14+ years** of experience across enterprise software, cloud infrastructure, and AI integration — including work with **PwC** and **KPMG**. I specialize in backend systems that are observable, scalable, and production-ready, from secure LLM guardrails to sub-$10 ETL pipelines processing millions of records. Outside of engineering, I'm a 3× Ironman and 10× Ironman 70.3 finisher — I bring the same discipline to systems design as I do to a 140.6-mile race.
 
 ```python
 profile = {
     "name":       "Asad Tungeker",
     "location":   "Chicago, IL",
-    "experience": "24+ years in enterprise IT",
+    "experience": "14+ years in enterprise IT",
     "focus":      ["LLM / GenAI Integration", "RAG Architectures", "Cloud-Native APIs", "Data Engineering"],
     "stack":      ["Python", "C# / .NET", "TypeScript", "Azure", "FastAPI", "LangChain"],
     "open_to":    "Senior / Staff Engineer roles in AI, Backend, or Data Engineering — USA",
