@@ -21,10 +21,13 @@ profile = {
     "name":       "Asad Tungeker",
     "location":   "Chicago, IL",
     "experience": "14+ years in enterprise IT",
+    "background":    ["PwC", "KPMG"],
     "focus":      ["LLM / GenAI Integration", "RAG Architectures", "Cloud-Native APIs", "Data Engineering"],
     "stack":      ["Python", "C# / .NET", "TypeScript", "Azure", "FastAPI", "LangChain"],
     "open_to":    "Senior / Staff Engineer roles in AI, Backend, or Data Engineering — USA",
-    "endurance":  "3× Ironman  |  10× Ironman 70.3",
+    "certifications": ["Certified Generative AI Specialist (CGAI)", "Microsoft Certified Data Engineer", "Sitecore XM Cloud Certified Developer"],
+    "endurance":     "3× Ironman  |  10× Ironman 70.3  |  Tallinn 2026 incoming",
+
 }
 ```
 
