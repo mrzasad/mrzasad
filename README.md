@@ -106,7 +106,7 @@ Customer deduplication pipeline using cosine similarity + active learning — **
 ## Certifications
 
 - **Certified Generative AI Specialist (CGAI)**
-- **Microsoft Certified: Azure AI Engineer Associate**
+- **AWS Cloud Practitioner**
 - **Sitecore XM Cloud Certified Developer**
 
 ---
