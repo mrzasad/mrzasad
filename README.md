@@ -24,8 +24,7 @@ profile = {
     "background":  ["PwC", "KPMG"],
     "focus":       ["LLM / GenAI Integration", "RAG Architectures", "Cloud-Native APIs", "Data Engineering"],
     "stack":       ["Python", "C# / .NET", "TypeScript", "Azure", "FastAPI", "LangChain"],
-    "open_to":    "Senior / Staff Engineer roles in AI, Backend, or Data Engineering — USA",
-    "certifications": ["Certified Generative AI Specialist (CGAI)", "Microsoft Certified: Azure AI Engineer Associate", "Sitecore XM Cloud Certified Developer"],
+    "certifications": ["Certified Generative AI Specialist (CGAI)", "AWS Cloud Practitioner", "Sitecore XM Cloud Certified Developer"],
     "endurance":     "3× Ironman  |  10× Ironman 70.3  |  Tallinn 2026 incoming",
 
 }
